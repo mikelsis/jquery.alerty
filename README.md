@@ -1,4 +1,4 @@
-jquery.alerty
+jquery.alerty VIP
 =============
 
 Jquery plugin, for showing annoying alert :D
